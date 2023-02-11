@@ -14,3 +14,8 @@ body {
     display: flex;
     flex-direction: row;
 }
+
+div.sidebar{
+    background-image: url("background.png");
+    background-size: cover;
+}
