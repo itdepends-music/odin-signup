@@ -52,6 +52,19 @@ div.footer a {
     padding-bottom: 16px;
 }
 
+.main {
+    background-color: rgb(248, 248, 248);
+}
+
+div.main form > div {
+    padding-left: 32px;
+}
+
+.main form .form-fields {
+    background-color: white;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+
 div.main form .form-paragraph p,
 div.main form .form-fields p {
     font-size: 1.2rem;
