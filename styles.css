@@ -7,6 +7,10 @@
     font-display: swap;
 }
 
+html {
+    font-family: sans-serif;
+}
+
 body {
     width: 100vw;
     height: 100vh;
