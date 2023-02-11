@@ -40,3 +40,10 @@ div.logo span.logo-text {
     color: white;
     font-family: Norse;
 }
+
+div.footer,
+div.footer a {
+    color: white;
+    text-align: center;
+    padding-bottom: 16px;
+}
