@@ -51,3 +51,11 @@ div.footer a {
     text-align: center;
     padding-bottom: 16px;
 }
+
+div.main form .form-paragraph p,
+div.main form .form-fields p {
+    font-size: 1.2rem;
+    font-weight: 500;
+
+    max-width: 600px;
+}
