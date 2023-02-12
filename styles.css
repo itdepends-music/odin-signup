@@ -58,6 +58,10 @@ div.logo span.logo-text {
     font-family: Norse;
 }
 
+div.footer {
+    margin-top: auto;
+}
+
 div.footer,
 div.footer a {
     color: white;
