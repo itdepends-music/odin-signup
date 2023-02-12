@@ -69,7 +69,7 @@ div.footer a {
 }
 
 div.main form > div {
-    padding-left: 32px;
+    padding-left: 48px;
 }
 
 .main form .form-fields {
@@ -103,7 +103,7 @@ div.main form .form-paragraph {
     display: flex;
     flex-direction: column;
     margin-right: 80px;
-    margin-bottom: 24px;
+    margin-bottom: 32px;
 }
 
 .form-field label {
