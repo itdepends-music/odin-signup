@@ -22,6 +22,9 @@ body {
 div.sidebar {
     background-image: url("background.png");
     background-size: cover;
+
+    flex-basis: 400px;
+    flex-shrink: 1;
 }
 
 div.logo {
@@ -54,6 +57,10 @@ div.footer a {
 
 .main {
     background-color: rgb(248, 248, 248);
+
+    flex-basis: 300px;
+    flex-grow: 1;
+    flex-shrink: 1;
 }
 
 .main form {
@@ -81,6 +88,7 @@ div.main form .form-fields p {
 .form-fields > div {
     display: flex;
     flex-wrap: wrap;
+    max-width: 800px;
 }
 
 .form-fields .form-field {
