@@ -104,6 +104,17 @@ div.main form .form-fields p {
     border: 1px solid #e5e7eb;
     border-radius: 3px;
     box-shadow: rgba(0, 0, 0, 0.05) 0px 1px 2px 0px;
+
+}
+
+.form-field input:invalid {
+    border: 1px solid red;
+}
+
+.form-field input:focus {
+    outline: none;
+    border: 1px solid rgb(94, 147, 226);
+    box-shadow: rgba(0, 0, 0, 0.05) 0px 2px 4px 0px;
 }
 
 button#create-account {
