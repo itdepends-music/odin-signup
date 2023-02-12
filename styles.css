@@ -85,6 +85,14 @@ div.main form .form-fields p {
     max-width: 600px;
 }
 
+div.main form .form-paragraph {
+    height: 250px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
 .form-fields > div {
     display: flex;
     flex-wrap: wrap;
