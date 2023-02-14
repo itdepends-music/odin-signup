@@ -151,6 +151,7 @@ div.main form .form-paragraph {
     color: red;
     font-size: 0.8rem;
     padding-top: 3px;
+    display: none;
 }
 
 button#create-account {
