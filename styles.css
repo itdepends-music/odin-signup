@@ -147,6 +147,12 @@ div.main form .form-paragraph {
     box-shadow: rgba(0, 0, 0, 0.05) 0px 2px 4px 0px;
 }
 
+.password-error {
+    color: red;
+    font-size: 0.8rem;
+    padding-top: 3px;
+}
+
 button#create-account {
     margin: 32px 0;
     padding: 12px 32px 12px 32px;
